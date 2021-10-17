@@ -1,6 +1,6 @@
 - 👋 Hi, I’m liu rui
 - 👀 I’m interested in computer science&technology
-- 🌱 I’m currently learning optimization algorithms which are widely used in operational research
+- 🌱 I’m currently learning optimization algorithms which are widely used in operational research&machine learning
 - 💞️ I’m looking to collaborate on ...well,I need improve my abilities first
 - 📫 How to reach me 1844520476@qq.com
 
